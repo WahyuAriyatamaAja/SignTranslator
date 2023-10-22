@@ -1,2 +1,2 @@
 # Smart Scheduler
-Ubiquitos Computing Course
+Ubiquitous Computing Tasks
