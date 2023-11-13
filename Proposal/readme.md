@@ -30,7 +30,9 @@ Aplikasi ini ditujukan untuk:
 
 **User Experience Theme**
 
-Time line nantinya akan memberikan pengalaman 
+Time line nantinya akan memberikan pengalaman bagi pengguna yang:
+- **Mudah digunakan**: Pengguna harus dapat dengan mudah menggunakan aplikasi Time Line.
+
 
 **User Story**
 
