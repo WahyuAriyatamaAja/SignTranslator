@@ -32,11 +32,17 @@ Aplikasi ini ditujukan untuk:
 
 Time line nantinya akan memberikan pengalaman bagi pengguna yang:
 - **Mudah digunakan**: Pengguna harus dapat dengan mudah menggunakan aplikasi Time Line.
-
+- **Mudah dipahami**: pengguna harus dapat dengan mudah memahami cara penggunaan aplikasi Time Line.
 
 **User Story**
 
-
+Berikut beberapa user story yang menggambarkan kebutuhan utama dari pengguna aplikasi Time Line:
+|**Sebagai**|**Saya ingin bisa**|**Sehingga**|**Prioritas**|
+|-----|-----|-----|-----|
+|Sistem|Ingin bisa mendeteksi waktu|Sehingga bisa mengingatkan berdasarkan waktu|⭐⭐⭐⭐⭐|
+|Sistem|Ingin bisa mendeteksi lokasi|Sehingga bisa mengingatkan berdasarkan lokasi|⭐⭐⭐⭐⭐|
+|Sistem|Ingin bisa memberikan notifikasi|Sehingga dapat mengingatkan waktu yang telah dijadwalkan|⭐⭐⭐⭐|
+|Sistem|Ingin bisa memberikan suara|Sehingga dapat mengingatkan waktu meskipun tidak sedang memperhatikan smartphone|⭐⭐⭐|
 
 **Metode dan Algoritma**
 
