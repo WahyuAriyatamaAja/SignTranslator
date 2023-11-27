@@ -1,6 +1,6 @@
 **Intro**
 
-Artikel ini membahas mengenai pengembangan teknologi UbiCom berupa Smart Scheduler dengan fitur lokasi sebagai salah satu indikasi pengingat jadwal. Nantinya teknologi ini akan dapat mengingatkan jadwal kita berdasarkan 2 hal, yaitu prioritas waktu dan lokasi.
+Artikel ini membahas mengenai pengembangan teknologi UbiCom berupa Smart Scheduler dengan fitur lokasi sebagai salah satu indikasi pengingat jadwal. Nantinya teknologi ini akan dapat mengingatkan jadwal kita berdasarkan 2 hal, yaitu prioritas waktu dan lokasi. Jadi, ketika sedang berada dilokasi yang memiliki jadwal, hanya jadwal yang ada dilokasi tersebut yang akan diingatkan, sedangkan jadwal tanpa lokasi akan di senyapkan sementara.
 
 **Latar Belakang**
 
