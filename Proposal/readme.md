@@ -1,6 +1,6 @@
 **Intro**
 
-Artikel ini membahas mengenai pengembangan teknologi UbiCom berupa Smart Scheduler dengan fitur lokasi sebagai salah satu indikasi pengingat jadwal. Nantinya teknologi ini akan dapat mengingatkan jadwal kita berdasarkan 2 hal, yaitu prioritas waktu dan lokasi. Jadi, ketika sedang berada dilokasi yang memiliki jadwal, hanya jadwal yang ada dilokasi tersebut yang akan diingatkan, sedangkan jadwal tanpa lokasi akan di senyapkan sementara.
+Artikel ini membahas mengenai pengembangan teknologi UbiCom berupa translator bahasa isyarat. Nantinya teknologi berbasis WebApp ini akan dapat menerjemahkan bahasa isyarat menggunakan kamera dan melabeli setiap gerakan bahasa isyarat menjadi bahasa indonesia, sehingga dapan membantu kita agar dapat berbincang dengan seorang tunawicara.
 
 **Latar Belakang**
 
@@ -18,31 +18,29 @@ Smartphone tidak hanya berperan sebagai alat komunikasi saja, smartphone memilik
 
 **Branding**
 
-Dalam mengembangkan merek dan citra produk UbiCom untuk smart scheduler, kami memilih:
-- **Merk** : Time Line
+Dalam mengembangkan merek dan citra produk UbiCom untuk sign translator (penerjemah isyarat), kami memilih:
+- **Merk** : Silent App
 
 **Target Pengguna**
 
 Aplikasi ini ditujukan untuk:
 
-- **Seluruh kalangan usia**: Produk ini dirancang agar dapat digunakan oleh seluruh kalangan usia, terutama mereka yang sering melewatkan aktivitas keseharian mereka atau aktivitas yang bertabrakan.
-- **Pengguna Smartphone**: Produk ini memanfaatkan sistem yang ada dalam smartphone, sehingga pengguna harus memiliki smartphone.
+- **Seluruh kalangan usia**: Produk ini dirancang agar dapat digunakan oleh seluruh kalangan usia, terutama mereka yang sering berinteraksi dengan seorang tunawicara.
+- 
 
 **User Experience Theme**
 
 Time line nantinya akan memberikan pengalaman bagi pengguna yang:
-- **Mudah digunakan**: Pengguna harus dapat dengan mudah menggunakan aplikasi Time Line.
-- **Mudah dipahami**: pengguna harus dapat dengan mudah memahami cara penggunaan aplikasi Time Line.
+- **Mudah digunakan**: Pengguna harus dapat dengan mudah menggunakan Silent App.
+- **Mudah dipahami**: pengguna harus dapat dengan mudah memahami cara penggunaan Silent App.
 
 **User Story**
 
 Berikut beberapa user story yang menggambarkan kebutuhan utama dari pengguna aplikasi Time Line:
 |**Sebagai**|**Saya ingin bisa**|**Sehingga**|**Prioritas**|
 |-----|-----|-----|-----|
-|Sistem|Ingin bisa mendeteksi waktu|Sehingga bisa mengingatkan berdasarkan waktu|⭐⭐⭐⭐⭐|
-|Sistem|Ingin bisa mendeteksi lokasi|Sehingga bisa mengingatkan berdasarkan lokasi|⭐⭐⭐⭐⭐|
-|Sistem|Ingin bisa memberikan notifikasi|Sehingga dapat mengingatkan waktu yang telah dijadwalkan|⭐⭐⭐⭐|
-|Sistem|Ingin bisa memberikan suara|Sehingga dapat mengingatkan waktu meskipun tidak sedang memperhatikan smartphone|⭐⭐⭐|
+|Sistem|Ingin bisa mendeteksi gerakan|Sehingga bisa menyesuaikan gerakan dengan bahasa isyarat|⭐⭐⭐⭐⭐|
+|Sistem|Ingin bisa melabeli gerakan|Sehingga bisa memberikan label pada setiap gerakan bahasa isyarat|⭐⭐⭐⭐⭐|
 
 **Metode dan Algoritma**
 
