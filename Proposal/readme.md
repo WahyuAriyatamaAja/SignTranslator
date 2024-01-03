@@ -75,5 +75,15 @@ Software Development:
 - Javascript: merupakan bahasa pemrograman yang digunakan untuk membuat tampilan menjadi interaktif dan dinamis. Tetapi, pada Silent App, javascript digunakan untuk memvalidasi data yang masuk.
 - Python: merupakan bahasa pemrograman yang serbaguna dan salah satu kegunaannya ialah machine learning dan pengembangan website yang sangat penting untuk membangun Silent App.
 
+**Modeling**: https://colab.research.google.com/drive/1stGbWb8b3wxBNoUgkzsd-c3zrBA3LtUN?usp=sharing
+
+
+
 **Arsitekture Sistem**
+
+![image](https://github.com/WahyuAriyatamaAja/SignTranslator/assets/106895141/17321a1f-c223-4997-90b0-33c18b9b7632)
+
+
 **Flowchart**
+
+![image](https://github.com/WahyuAriyatamaAja/SignTranslator/assets/106895141/72a872ba-5a94-4dbb-874f-fd97dc9302b6)
